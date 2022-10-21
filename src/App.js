@@ -5,9 +5,9 @@ import DateCard from   './components/datingcards/Datecard'
 
 function App() {
   return (
-    <div className="App">
-      <Header></Header>
-      <DateCard></DateCard>
+    <div className="app">
+      <Header  />
+     < DateCard />
     </div>
   );
 }
